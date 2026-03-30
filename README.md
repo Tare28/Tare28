@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Tareessa Bizuneh
-<p align="center">
-  <img src="banner.png" />
-</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Mobile;Building+Real+World+Projects&center=true&width=500&height=45">
 </p>
